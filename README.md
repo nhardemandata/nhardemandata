@@ -1,5 +1,5 @@
-## 👨‍💻 Nolan Hardeman – Projects & Portfolio
-## 👋 Hello and Welcome!
+# 👨‍💻 Nolan Hardeman – Projects & Portfolio
+### 👋 Hello and Welcome!
 
 ### About Me
 
