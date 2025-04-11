@@ -1,5 +1,9 @@
 ## Hello and Welcome!
 
+Hi, I’m Nolan — welcome to my GitHub!
+
+I’m a Houston native currently living just north of the city. This GitHub profile highlights a collection of personal and technical projects I’ve worked on. Feel free to explore, and don’t forget to ⭐ star the ones you enjoy!
+
 ## 💼 Projects
 
 ### 🐟 Fish Species Analysis (R + Python + SQL + Tableau) 🐡
