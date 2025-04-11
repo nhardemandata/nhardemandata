@@ -13,3 +13,4 @@ Exploratory analysis and modeling of fish traits using FishBase data
 👀 👉 [View Project Repo](https://github.com/nhardemandata/fish-species-project) 🐠
 
 <img width="380" alt="Image" src="https://github.com/user-attachments/assets/56ecb549-83f4-4e6e-84ad-a58fc89922fd" />
+Bull Red Drum caught August 3, 2022 near Bolivar Peninsula in the intercoastal jetties.
