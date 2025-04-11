@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello and Welcome!
 
-<!--
-**nhardemandata/nhardemandata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐟 Fish Species Analysis (R + Python + SQL + Tableau) 🐡
+Exploratory analysis and modeling of fish traits using FishBase data  
+- Cleaned & joined multi-source datasets using `rfishbase` in **R**  
+- Engineered features and built visualizations with `tidyverse`, `ggplot2` (**R**) and `seaborn`/**matplotlib** (**Python**)  
+- Modeled fish weight using OLS and log-transformed regression (R)  
+- Used **Python** (`pandas`, `scikit-learn`) for extended analysis and cross-validation  
+- Exported cleaned data to CSV and loaded into a relational database (**SQL**)  
+- Designed an interactive **Tableau dashboard** to explore species traits  
+👀 👉 [View Project Repo](https://github.com/nhardemandata/fish-species-project) 🐠
