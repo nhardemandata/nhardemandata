@@ -11,3 +11,5 @@ Exploratory analysis and modeling of fish traits using FishBase data
 - Exported cleaned data to CSV and loaded into a relational database (**SQL**)  
 - Designed an interactive **Tableau dashboard** to explore species traits  
 👀 👉 [View Project Repo](https://github.com/nhardemandata/fish-species-project) 🐠
+
+<img width="380" alt="Image" src="https://github.com/user-attachments/assets/56ecb549-83f4-4e6e-84ad-a58fc89922fd" />
