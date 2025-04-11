@@ -1,4 +1,7 @@
-## Hello and Welcome!
+## 👨‍💻 Nolan Hardeman – Projects & Portfolio
+## 👋 Hello and Welcome!
+
+### About Me
 
 Hi, I’m Nolan — welcome to my GitHub!
 
