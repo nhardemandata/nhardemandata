@@ -53,6 +53,6 @@ Bull Red Drum caught August 3, 2022 near Bolivar Peninsula in the intercoastal j
 ## 📬 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/datascientistnolan/)
-- 🐙 [GitHub](https://www.github.com/nhardemandata))
+- 🐙 [GitHub](https://www.github.com/nhardemandata)
 
 ---
