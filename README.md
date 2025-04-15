@@ -1,7 +1,7 @@
 # 👨‍💻 Nolan Hardeman – Projects & Portfolio
 ### 👋 Hello and Welcome!
 
-### About Me
+## About Me
 
 🎓 **Computer Science Student** | 📊 **Senior Data Science Coordinator** | 🇺🇸 **Marine Corps Veteran**
 
