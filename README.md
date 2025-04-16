@@ -44,7 +44,7 @@ Bull Red Drum caught August 3, 2022 near Bolivar Peninsula in the intercoastal j
 
 ## 🧰 Tech Stack
 
-`Python` | `SQL` | `R` | `C` | `Bash` 
+`Python` | `SQL` | `R` | `C` | `Bash` |
 `Jupyter Notebooks` | `Git` | `Tableau` | `Linux` 
 | `Matplotlib` | `NumPy` | `pandas`
 
